@@ -175,6 +175,16 @@
       "curated": true
     }
   ],
+  "BulletDesigner": [
+    {
+      "repository": "https://github.com/Supermagnum/BulletDesigner",
+      "git_ref": "main",
+      "branch_display_name": "main",
+      "freecad_min": "0.21.0",
+      "zip_url": "https://github.com/Supermagnum/BulletDesigner/archive/refs/heads/main.zip",
+      "curated": false
+    }
+  ],
   "btl": [
     {
       "repository": "https://github.com/knipknap/better-tool-library",
@@ -1206,6 +1216,16 @@
       "freecad_max": "0.21.99",
       "zip_url": "https://github.com/davesrocketshop/Rocket/archive/refs/tags/v3.3.0.zip",
       "curated": true
+    }
+  ],
+  "RotaryMoulder": [
+    {
+      "repository": "https://github.com/mepasschier/FreeCAD-RotaryMoulder",
+      "git_ref": "main",
+      "branch_display_name": "main",
+      "freecad_min": "1.0.0",
+      "zip_url": "https://github.com/mepasschier/FreeCAD-RotaryMoulder/archive/refs/heads/main.zip",
+      "curated": false
     }
   ],
   "SaveAndRestore": [
