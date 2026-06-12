@@ -1417,10 +1417,10 @@
   ],
   "Templater": [
     {
-      "repository": "https://github.com/FC-FBXL5/Templater",
+      "repository": "https://codeberg.org/FBXL5/Templater",
       "git_ref": "main",
       "branch_display_name": "main",
-      "zip_url": "https://github.com/FC-FBXL5/Templater/archive/refs/heads/main.zip",
+      "zip_url": "https://codeberg.org/FBXL5/Templater/archive/main.zip",
       "curated": true
     }
   ],
