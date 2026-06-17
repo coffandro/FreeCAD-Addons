@@ -10,12 +10,12 @@
 
 #
 #   Request new packages to be added at:
-#   https://github.com/FreeCAD/FreeCAD-addons/issues/new/choose
+#   https://github.com/FreeCAD/Addons/issues/new?template=Package-Addition.yml
 #
 
 #
 #   Read more details about this file at:
-#   https://github.com/FreeCAD/FreeCAD-addons/blob/master/Documentation/Allowed-Python-Packages.md
+#   https://github.com/FreeCAD/Addons/blob/main/Documentation/Allowed-Python-Packages.md
 #
 
 #
