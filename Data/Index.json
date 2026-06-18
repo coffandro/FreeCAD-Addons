@@ -741,6 +741,16 @@
       "curated": true
     }
   ],
+  "HexFill": [
+    {
+      "repository": "https://github.com/Clientik/FreeCAD-HexFill",
+      "git_ref": "main",
+      "branch_display_name": "main",
+      "freecad_min": "1.0.0",
+      "zip_url": "https://github.com/Clientik/FreeCAD-HexFill/archive/refs/heads/main.zip",
+      "curated": false
+    }
+  ],
   "HistoryWorkbench": [
     {
       "repository": "https://github.com/eblanshey/HistoryWorkbench",
